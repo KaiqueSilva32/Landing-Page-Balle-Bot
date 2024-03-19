@@ -1,1 +1,1 @@
-Uma Página de um bot de discord
+Uma Landing Page de um bot de discord
